@@ -1,0 +1,19 @@
+Types of tags
+ (a)unpaired tag
+ <br>
+ (b)paired tag
+ <p></p>
+ (c)self-closing tag
+ <img/>
+
+ 10 attributes with corresponding tag
+id  <div id="header"> </div>
+class <p class="important-text">this is important.</p>
+src <img src="image.jpg" alt="an example image">
+href <a href="https://google.com">visit google.com</a>
+alt  <img src="image.jpg" alt="picture of nature">
+title <a href="https://www.com" tittle="visit example.com">visit example.com
+target <a href="https://www.example.com" target="_blank">Visit Example.com in a new tab</a>
+disabled <button type="button" disabled>Click me (disabled)</button>
+placeholder <input type="text" placeholder="Enter your email">
+style <p style="color: red; font-size: 16px;">This text is styled inline.</p>
